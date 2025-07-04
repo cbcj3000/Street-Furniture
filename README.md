@@ -23,8 +23,9 @@ Lessons Learned
 - Implement data download/export features for selected data
 
 **Setup Instructions**
+
 *Note: API links to the live data have been removed for security reasons.*
 
-Clone this repository:
+- Clone this repository:
 ```git clone https://github.com/cbcj3000/Street-Furniture.git```
 - Open StreetFurniture.html in your browser.
